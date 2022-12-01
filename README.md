@@ -1,4 +1,4 @@
-<h3>Hi 👋, I'm Ibrahim Memon</h3>
+<h3>Hi 👋, I'm Muhmmad Ali Raza Khan</h3>
 
 <p>I am a passionate Software Engineer, experienced in frontend development. I like working on and exploring JavaScript technologies and frameworks.</p>
 
@@ -8,9 +8,9 @@
 
 - 💬 Ask me about **ReactJS, React Native**
 
-- 📫 How to reach me **ibrahimmemon930@gmail.com**
+- 📫 How to reach me **ali67744@gmail.com**
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ibrahimmemonn)
+![GitHub Streak](https://streak-stats.demolab.com/?user=akhan763)
 
 <a href=#><img src="contributions.svg"></a>
 
